@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Troyanovsky
 - 👀 I’m a product manager during my day, but I often code some small projects while learning new stuff in my spare time.
 - 🌱 I’m currently learning Large Language Model applications and Web dev.
-- 💞️ Open to collaborate on projects in EdTech, HealthTech, Productivity Tools, or anything that could make people's lives better! These projects can be just MVP/Proof-of-concept to bigger ones.
+- 📝 I write about AI and product management on [Medium](https://medium.com/@guodong_zhao).
+- 💞️ Open to discussing & collaborating on projects in EdTech, HealthTech, Productivity Tools, or anything that could make people's lives better! These projects can be just MVP/Proof-of-concept to bigger ones.
 - 📫 How to reach me: gzhao1997@gmail.com; https://www.linkedin.com/in/guodongzhao/
 
 <!---
